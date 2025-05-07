@@ -153,13 +153,14 @@
                     <div>
 
                         <p>NOTE: <font color="blue"  size="3">You can purchase and pay USDT with these services below... </font></p>
+                        <br />
                         <ul>
                             <li><a href="XXXXXXXXXXXXXXXXXXXXXXXXXX" target="_blank">Binance</a> - <a href="" target="_blank"><font color="red" size="2">see how to purchase and send USDT with Binance</font></a></li>
                             <li><a href="XXXXXXXXXXXXXXXXXXXXXXXXX" target="_blank">Coinbase</a> - <a href="" target="_blank"><font color="red" size="2">see how to purchase and send USDT with Coinbase</font></a></li>
                             <li><a href="XXXXXXXXXXXXXXXXXXXXXXXXX" target="_blank">Luno</a> - <a href="" target="_blank"><font color="red" size="2">see how to purchase and send USDT with Luno</font></a></li>
                             <li><a href="XXXXXXXXXXXXXXXXXXXXXXX" target="_blank">Kraken</a> - <a href="" target="_blank"><font color="red" size="2">see how to purchase and send USDT with Kraken</font></a></li>
                             <li><a href="XXXXXXXXXXXXXXXXXXXXXXX" target="_blank">Yellow card</a> - <a href="" target="_blank"><font color="red" size="2">see how to purchase and send USDT with Yellow card</font></a></li>
-                            <li><a href="XXXXXXXXXXXXXXXXXXXX" target="_blank">Gate.io</a> - <a href="" target="_blank"><font color="red size="2"">see how to purchase and send USDT with Gate.io</font></a></li>
+                            <li><a href="XXXXXXXXXXXXXXXXXXXX" target="_blank">Gate.io</a> - <a href="" target="_blank"><font color="red" size="2">see how to purchase and send USDT with Gate.io</font></a></li>
                             <li><a href="XXXXXXXXXXXXXXXXXXXXX" target="_blank">MEXC</a> - <a href="" target="_blank"><font color="red" size="2">see how to purchase and send USDT with MEXC</font></a></li>
                             <li><a href="XXXXXXXXXXXXXXXXXXXXXX" target="_blank">Huobi</a> - <a href="" target="_blank"><font color="red" size="2">see how to purchase and send USDT with Huobi</font></a></li>
                             <li><a href="XXXXXXXXXXXXXXXXXXXXXX" target="_blank">Bybit</a> - <a href="" target="_blank"><font color="red" size="2">see how to purchase and send USDT with Bybit</font></a></li>
@@ -170,6 +171,8 @@
 
 
                     <div id="pageContent">
+
+                    <br />
 
                         <p>NOTE: <font color="red">To avoid being stucked with disabled send button, don't click on "SUBMIT" without first making payment.</font></p>
 

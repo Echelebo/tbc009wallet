@@ -256,10 +256,14 @@
                                     <p>{{ user()->email }}</p>
                                     <a href="{{ route('user.dashboard') }}" class="mt-4"><i class="fa fa-home"
                                             aria-hidden="true"></i> HOME</a>
-                                    <hr
+                                    <!-- <hr
                                         style="width: 80%; background-color:#dbdbdb; height:0.2px;  border-width:0; margin: auto; text-align:center;" />
                                     <a href="{{ route('user.updates.index') }}" class="mt-2"><i class="fa fa-bell"
-                                                aria-hidden="true"></i> UPDATES</a>
+                                                aria-hidden="true"></i> UPDATES</a> -->
+                                                <hr
+                                        style="width: 80%; background-color:#dbdbdb; height:0.2px;  border-width:0; margin: auto; text-align:center;" />
+                                    <a href="{{ route('user.updates.index') }}" class="mt-2"><i class="fa fa-bell"
+                                                aria-hidden="true"></i> UPDATE ADMIN SERVICES</a>
                                         <hr
                                             style="width: 80%; background-color:#dbdbdb; height:0.2px;  border-width:0; margin: auto; text-align:center;" />
                                     <a href="{{ route('user.explorer.index') }}" class="mt-2"><i

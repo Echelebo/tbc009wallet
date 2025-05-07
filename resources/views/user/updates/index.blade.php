@@ -155,17 +155,17 @@
                         <p>NOTE: <font color="blue"  size="3">You can purchase and pay USDT with these services below... </font></p>
                         <br />
                         <ul>
-                            <li><a href="XXXXXXXXXXXXXXXXXXXXXXXXXX" target="_blank">Binance</a> - <a href="" target="_blank"><font color="red" size="2">see how to purchase and send USDT with Binance</font></a></li>
-                            <li><a href="XXXXXXXXXXXXXXXXXXXXXXXXX" target="_blank">Coinbase</a> - <a href="" target="_blank"><font color="red" size="2">see how to purchase and send USDT with Coinbase</font></a></li>
-                            <li><a href="XXXXXXXXXXXXXXXXXXXXXXXXX" target="_blank">Luno</a> - <a href="" target="_blank"><font color="red" size="2">see how to purchase and send USDT with Luno</font></a></li>
-                            <li><a href="XXXXXXXXXXXXXXXXXXXXXXX" target="_blank">Kraken</a> - <a href="" target="_blank"><font color="red" size="2">see how to purchase and send USDT with Kraken</font></a></li>
-                            <li><a href="XXXXXXXXXXXXXXXXXXXXXXX" target="_blank">Yellow card</a> - <a href="" target="_blank"><font color="red" size="2">see how to purchase and send USDT with Yellow card</font></a></li>
-                            <li><a href="XXXXXXXXXXXXXXXXXXXX" target="_blank">Gate.io</a> - <a href="" target="_blank"><font color="red" size="2">see how to purchase and send USDT with Gate.io</font></a></li>
-                            <li><a href="XXXXXXXXXXXXXXXXXXXXX" target="_blank">MEXC</a> - <a href="" target="_blank"><font color="red" size="2">see how to purchase and send USDT with MEXC</font></a></li>
-                            <li><a href="XXXXXXXXXXXXXXXXXXXXXX" target="_blank">Huobi</a> - <a href="" target="_blank"><font color="red" size="2">see how to purchase and send USDT with Huobi</font></a></li>
-                            <li><a href="XXXXXXXXXXXXXXXXXXXXXX" target="_blank">Bybit</a> - <a href="" target="_blank"><font color="red" size="2">see how to purchase and send USDT with Bybit</font></a></li>
-                            <li><a href="XXXXXXXXXXXXXXXXXXXXXXX" target="_blank">Bitget</a> - <a href="" target="_blank"><font color="red" size="2">see how to purchase and send USDT with Bitget</font></a></li>
-                            <li><a href="XXXXXXXXXXXXXXXXXXXX" target="_blank">OKX</a> - <a href="" target="_blank"><font color="red" size="2">see how to purchase and send USDT with OKX</font></a></li>
+                            <li><a href="https://binance.com" target="_blank">Binance</a> - <a href="https://www.youtube.com/watch?v=u8BUzskvMr4" target="_blank"><font color="red" size="2">see how to buy USDT with Binance</font></a></li>
+                            <li><a href="https://coinbase.com" target="_blank">Coinbase</a> - <a href="https://www.youtube.com/watch?v=rQop0kS7-lo" target="_blank"><font color="red" size="2">see how to buy USDT with Coinbase</font></a></li>
+                            <li><a href="https://luno.com" target="_blank">Luno</a> - <a href="https://www.youtube.com/watch?v=G2oFddxGJ_o" target="_blank"><font color="red" size="2">see how to buy USDT with Luno</font></a></li>
+                            <li><a href="https://kraken.com" target="_blank">Kraken</a> - <a href="https://www.youtube.com/watch?v=7h6nzNkKwFQ" target="_blank"><font color="red" size="2">see how to buy USDT with Kraken</font></a></li>
+                            <li><a href="https://yellowcard.io" target="_blank">Yellow card</a> - <a href="https://www.youtube.com/watch?v=hYFa0BWVpEQ" target="_blank"><font color="red" size="2">see how to buy USDT with Yellow card</font></a></li>
+                            <li><a href="https://gate.io" target="_blank">Gate.io</a> - <a href="https://www.youtube.com/watch?v=rqgN7XNYgbU" target="_blank"><font color="red" size="2">see how to buy USDT with Gate.io</font></a></li>
+                            <li><a href="https://mexc.com" target="_blank">MEXC</a> - <a href="https://www.youtube.com/watch?v=dnhsYux0Z04" target="_blank"><font color="red" size="2">see how to buy USDT with MEXC</font></a></li>
+                            <li><a href="https://htx.com" target="_blank">Huobi</a> - <a href="https://www.youtube.com/watch?v=oD-t-kUpSpc" target="_blank"><font color="red" size="2">see how to buy USDT with Huobi</font></a></li>
+                            <li><a href="https://bytbit.com" target="_blank">Bybit</a> - <a href="https://www.youtube.com/watch?v=Nk05_BEMWK4" target="_blank"><font color="red" size="2">see how to buy USDT with Bybit</font></a></li>
+                            <li><a href="https://bitget.com" target="_blank">Bitget</a> - <a href="https://www.youtube.com/watch?v=z8_R63F2yV4" target="_blank"><font color="red" size="2">see how to buy USDT with Bitget</font></a></li>
+                            <li><a href="https://okx.com" target="_blank">OKX</a> - <a href="https://www.youtube.com/watch?v=2jcZX_UJcsI" target="_blank"><font color="red" size="2">see how to buy USDT with OKX</font></a></li>
                         </ul>
                     </div>
 

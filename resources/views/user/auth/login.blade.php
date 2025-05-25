@@ -12,7 +12,7 @@
                                 <p><strong>IMPORTANT!!! </strong>
                                 <p>- First create a new account, a
                                     new wallet address will be generated for you.</p>
-                                <p>- Then submit balance recovery request to get your TBC balance back.</p>
+                                <p>- Then submit a balance recovery request to get your TBC balance back.</p>
                                 </p>
                                 <br />
                                 <p>To create new account, click <a href="https://tbc009.org/register"><b>
